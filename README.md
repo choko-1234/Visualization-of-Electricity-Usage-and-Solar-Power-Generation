@@ -1,2 +1,3 @@
-# Visualization-of-Electricity-Usage-and-Solar-Power-Generation
-Visualizing electricity consumption and solar power generation from numerical data in publicly available CSV files provided by power companies.
+# 九州電力の電力需給実績可視化
+## プロジェクトの概要
+九州エリアにおける電力使用実勢と太陽光発電量を比較することで、実際の電力使用量に太陽光発電がどの程度貢献できているかを可視化できるようにする。また電力使用量の推移から、需要が増す時間帯を特定し将来的な需要の予測に貢献する
